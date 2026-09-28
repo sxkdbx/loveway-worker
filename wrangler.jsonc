@@ -19,7 +19,7 @@
     {
       "binding": "DB",
       "database_name": "loveway",
-      "database_id": "在此填入 wrangler d1 create loveway 输出的 database_id"
+      "database_id": "5baf5095-f133-49e1-9f43-dcb8d389b26e"
     }
   ],
 
@@ -31,7 +31,7 @@
   "kv_namespaces": [
     {
       "binding": "UPLOADS",
-      "id": "在此填入 wrangler kv namespace create UPLOADS 输出的 id"
+      "id": "bc7e4cebf4dc4a09b370ec5b6e80c980"
     }
   ],
 
